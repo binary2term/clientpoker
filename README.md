@@ -1,4 +1,4 @@
-## Intro
+## Introduction
 clientpoker is a decentralized online poker platform where the shuffling and dealing of cards are directly calculated and determined by the client, not by the server. It can also be said that **clientpoker** is an implementation of **Mental poker**. It is the most transparent, fairest, provable, and decentralized poker game in the world.
 
 ## About Me
