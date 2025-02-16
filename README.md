@@ -9,4 +9,5 @@ The clientpoker project is currently under development, using HTML + JavaScript 
 
 ## Contact
 If you have any good ideas or are interested in creating a fair and decentralized poker game, feel free to contact me:  
-***telegram:*** https://t.me/clientpoker
+***Telegram:*** https://t.me/clientpoker  
+***Discord:*** https://discord.gg/qkStuu4MYs
